@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\new ujep\SWI\calculator\bin\Debug\net7.0\calculator.exe
+C:\Users\PC\Desktop\new ujep\SWI\calculator\bin\Debug\net7.0\calculator.deps.json
+C:\Users\PC\Desktop\new ujep\SWI\calculator\bin\Debug\net7.0\calculator.runtimeconfig.json
+C:\Users\PC\Desktop\new ujep\SWI\calculator\bin\Debug\net7.0\calculator.dll
+C:\Users\PC\Desktop\new ujep\SWI\calculator\bin\Debug\net7.0\calculator.pdb
+C:\Users\PC\Desktop\new ujep\SWI\calculator\obj\Debug\net7.0\calculator.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\new ujep\SWI\calculator\obj\Debug\net7.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\new ujep\SWI\calculator\obj\Debug\net7.0\calculator.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\new ujep\SWI\calculator\obj\Debug\net7.0\calculator.AssemblyInfo.cs
+C:\Users\PC\Desktop\new ujep\SWI\calculator\obj\Debug\net7.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\new ujep\SWI\calculator\obj\Debug\net7.0\calculator.dll
+C:\Users\PC\Desktop\new ujep\SWI\calculator\obj\Debug\net7.0\refint\calculator.dll
+C:\Users\PC\Desktop\new ujep\SWI\calculator\obj\Debug\net7.0\calculator.pdb
+C:\Users\PC\Desktop\new ujep\SWI\calculator\obj\Debug\net7.0\calculator.genruntimeconfig.cache
+C:\Users\PC\Desktop\new ujep\SWI\calculator\obj\Debug\net7.0\ref\calculator.dll
